@@ -1,0 +1,62 @@
+[
+    {
+        "image":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80",
+        "name":"Naveen kumar",
+        "designation":"Software developer",
+        "city":"Trissur",
+        "state":"Kerala"
+    },
+    {
+        "image":"https://www.kopykitab.com/blog/wp-content/uploads/2022/07/1582804864phpq24JjK-19.jpg",
+        "name":"Varshini",
+        "designation":"Web developer",
+        "city":"Chennnai",
+        "state":"Tamil nadu"
+    },
+    {
+        "image":"https://www.shutterstock.com/image-photo/handsome-man-portrait-260nw-1266937855.jpg",
+        "name":"Vishnu priya",
+        "designation":"Java developer",
+        "city":"Banglore",
+        "state":"Karnataka"
+    },  
+    {
+        "image":"https://img.freepik.com/premium-photo/cute-indian-girl-student-with-books-folders-hands-young-woman-teacher_8119-1495.jpg",
+        "name":"Navya",
+        "designation":"Full stack developer",
+        "city":"Mysor",
+        "state":"Karnataka"
+    },
+    
+    {
+        "image":"https://media.istockphoto.com/id/1300512215/photo/headshot-portrait-of-smiling-ethnic-businessman-in-office.jpg?b=1&s=170667a&w=0&k=20&c=TXCiY7rYEvIBd6ibj2bE-VbJu0rRGy3MlHwxt2LHt9w=",
+        "name":"Divya",
+        "designation":"Web developer",
+        "city":"Kovai",
+        "state":"Tamil nadu"
+    },
+    
+    {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcS1v4c0DZXXe-QFX9-JAPC7FovHUwoSmNQ&usqp=CAU",
+        "name":"Keerthi suresh",
+        "designation":"java developer",
+        "city":"Banglore",
+        "state":"Karnataka"
+    },
+    
+    {
+        "image":"https://www.shutterstock.com/image-photo/headshot-portrait-smiling-young-biracial-260nw-1835655418.jpg",
+        "name":"Thamarai",
+        "designation":"Software developer",
+        "city":"Kovai",
+        "state":"Tamil nadu"
+    },
+    {
+        "image":"https://static.businessworld.in/article/article_large_image/1488957074_8C2ua6_RaakheKapoor.jpg",
+        "name":"Aadhira",
+        "designation":"Web developer",
+        "city":"Trissur",
+        "state":"Kerala"
+    }
+
+]
